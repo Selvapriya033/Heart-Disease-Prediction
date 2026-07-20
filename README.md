@@ -89,8 +89,13 @@ Streamlit run app.py
 **📸Project Screenshots**
 
 **👩‍💻Developer**
+
 Selvapriya S
+
 B.E Computer Science & Engineering
+
 Passionate about Data Analytics,Machine Learning,Artificial Intelligence,Python,SQL & Power BI
+
 **⭐If You Like this Project**
+
 Please give this repository a ⭐ on GitHub 
